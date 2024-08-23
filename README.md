@@ -3,7 +3,7 @@
 <img src="https://img.shields.io/badge/%F0%9F%95%B6%EF%B8%8F-Cool%20GitHub%20READMEs-purple" alt="Awesome Badge"/>
 
 <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/>
-<a href="https://twitter.com/nikhl_shuklaa" ><img src="https://img.shields.io/twitter/follow/nikhil_shuklaa.svg?style=social"/> </a>
+<a href="" ><img src="https://img.shields.io/twitter/follow/aditya.svg?style=social"/> </a>
 <br>
 
 <i>A curated list of Cool GitHub Profile READMEs</i>
@@ -56,7 +56,7 @@ Don't forget to give a ![Stars](https://img.shields.io/badge/Star-FFD700?style=f
 
 
 #### Minimalistic
-- [Nikhil Shukla](https://github.com/nikhil-shuklaa/nikhil-shuklaa)
+- [ADITYA KUMAR](https://github.com/adityspecial/adityspecial)
 - [Fikri R.](https://github.com/superXdev)
 - [Axel Frache](https://github.com/axelfrache/axelfrache)
 - [Arpit Chaubay](https://github.com/arpitchaubey)
