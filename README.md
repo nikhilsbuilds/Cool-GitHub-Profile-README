@@ -80,6 +80,7 @@ Don't forget to give a ![Stars](https://img.shields.io/badge/Star-FFD700?style=f
 
 #### Simple but Innovative Ones
 - [Mohit Maurya](https://github.com/Mohit138928/Mohit138928)
+- [Yvann Barbot](https://github.com/yvann-ba/yvann-ba)
 
 #### Themed
 - [Ahmad-Mtr](https://github.com/Ahmad-Mtr/Ahmad-Mtr)
