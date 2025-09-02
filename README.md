@@ -56,7 +56,7 @@ Don't forget to give a ![Stars](https://img.shields.io/badge/Star-FFD700?style=f
 
 
 #### Minimalistic
-- [Nikhil Shukla](https://github.com/nikhil-shuklaa/nikhil-shuklaa)
+- [Nikhil](https://github.com/nikhilsbuilds/nikhilsbuilds)
 - [Fikri R.](https://github.com/superXdev)
 - [Axel Frache](https://github.com/axelfrache/axelfrache)
 - [Arpit Chaubay](https://github.com/arpitchaubey)
